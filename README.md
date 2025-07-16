@@ -1,10 +1,5 @@
 
-**ebraamhani/ebraamhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# 💫 About Me:
  Hi, I'm Ebraam Hani<br><br>🎓 **AI Engineer | Full-Stack Developer | Researcher**  <br>📍 Based in Cairo, Egypt  <br>🔭 Passionate about building intelligent systems that solve real-world problems.  <br><br>---<br><br>## 🧠 About Me<br><br>I'm a Computer Science graduate from **ESLSCA University**, specializing in **AI, Machine Learning, and Data Science**. With hands-on experience in both backend and frontend technologies, I bring research-driven thinking and full-stack execution to every project.<br><br>I love blending **deep tech** (like LLMs, NLP, and MLOps) with **creative applications** — whether it's a smart real estate agent, a fake news detector, or a travel assistant chatbot.<br><br>---
 
 
