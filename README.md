@@ -80,18 +80,7 @@ I'm a **Computer Science graduate** from **ESLSCA University** with a passion fo
   <img src="https://github-profile-trophy.vercel.app/?username=ebraamhani&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
----
 
-## 🚀 Featured Projects
-
-### 🤖 AI-Powered Financial Assistant
-A comprehensive financial management platform with AI-driven insights and real-time data analysis.
-
-**Tech Stack:** Next.js, React, TypeScript, CopilotKit, MongoDB, Prisma
-
-[![View Project](https://img.shields.io/badge/View_Project-3B82F6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ebraamhani/finance_ai)
-
----
 
 ## 📫 Connect With Me
 
